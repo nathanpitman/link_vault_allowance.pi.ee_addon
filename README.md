@@ -1,4 +1,4 @@
-# link_vault_allowance.pi.ee_addon
+# EE 2.x Link Vault Allowance Plug-in
 
 <pre>{exp:link_vault_allowance member_id="1"}
 {if allowed}You have sufficient allowance to download this item{/if}
