@@ -1,4 +1,4 @@
-# EE2.x Link Vault Allowance Plug-in
+# Link Vault Allowance Plug-in for EE 2.x 
 
 An ExpressionEngine 2.x plug-in which can be used with the [Link Vault module](http://masugadesign.com/software/link-vault) to enforce a download allowance.
 
